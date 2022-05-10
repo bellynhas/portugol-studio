@@ -10,7 +10,7 @@ inteiro luluss = g.carregar_imagem("luluss.jpg")
 	funcao inicio(){
 	g.iniciar_modo_grafico(verdadeiro)
 	g.definir_dimensoes_janela(700, 400)
-	g.definir_titulo_janela("City Pixel - Importando imagem no Portugol Studio")
+	g.definir_titulo_janela("Lulu League of Legends - Importando imagem no Portugol Studio")
 
 	enquanto (verdadeiro){
 		g.desenhar_imagem(0, 0, luluss)
@@ -24,7 +24,7 @@ inteiro luluss = g.carregar_imagem("luluss.jpg")
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 405; 
+ * @POSICAO-CURSOR = 409; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
